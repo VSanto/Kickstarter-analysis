@@ -15,7 +15,9 @@ Outcome Based on Goals
  Recommendations
   -Reduce the fundraising requests to under $5,000 at a time
     -this may mean breaking up the larger productions into smaller campaigns to achieve full funding
+    
 [Kickstarter_Challenge_26740_image001](https://user-images.githubusercontent.com/92495807/146666784-340d9904-9062-4a2b-a2b0-8afa8a4c7811.png)
 g]
+
 Data is limited do not know types of fundraising. 
 Additional data on types of fundraising would have been helpful in determining what works
